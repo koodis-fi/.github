@@ -18,11 +18,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Valokoodari&show_icons=1&count_private=1&theme=github_dark" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valokoodari&layout=compact&theme=github_dark" height="160px"/>
 </a>
--->
 
 ---
+-->
 
-[![](https://dcbadge.vercel.app/api/server/nzJgMjt)](https://discord.gg/nzJgMjt)
+[![](https://img.shields.io/discord/370241404884221953.svg?label=Koodis&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/nzJgMjt)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/koodisfi)
   
 The best ways to contact me are my Discord server (link above) or the email shown on my profile page. Please only use Finnish or English.  
