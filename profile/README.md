@@ -13,15 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Valokoodari&show_icons=1&count_private=1&theme=github_dark" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valokoodari&layout=compact&theme=github_dark" height="160px"/>
 </a>
+-->
 
 ---
 
 [![](https://dcbadge.vercel.app/api/server/nzJgMjt)](https://discord.gg/nzJgMjt)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/Valokoodari)
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/koodisfi)
   
 The best ways to contact me are my Discord server (link above) or the email shown on my profile page. Please only use Finnish or English.  
 
